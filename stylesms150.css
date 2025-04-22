@@ -77,3 +77,10 @@ p {
 .emphasis {
     font-weight: bold;
 }
+
+.end{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #f58025;
+}
